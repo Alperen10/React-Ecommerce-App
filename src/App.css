@@ -1,0 +1,18 @@
+ body {
+  background: #67B26F;
+  background: -webkit-linear-gradient(to right, #4ca2cd, #67B26F);
+  background: linear-gradient(to right, #4ca2cd, #67B26F);
+} 
+
+.App {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.title {
+  font-family: "Roboto", sans-serif;
+}
+
+.btn{
+  border-radius: 0 !important;
+}
